@@ -75,28 +75,28 @@
       "iconLink": "icon_harold",
       "initialHp": 23,
       "effectName": "Talent Blind Box",
-      "effectDesc": "<span class=\"font-bold\">[Talent Blind Box]</span> Starting from Round 4, obtain 1 [Victoria] Operator every 2 rounds\n<span class=\"text-red-500\">Strategy may be flawed when some [Victoria] Operators are missing</span></>"
+      "effectDesc": "<span class=\"font-bold\">[Talent Blind Box]</span> Starting from Round 4, obtain 1 &ltVictoria&gt Operator every 2 rounds\n<span class=\"text-red-500\">Strategy may be flawed when some &ltVictoria&gt Operators are missing</span></>"
     },
     {
       "name": "Sciurus",
       "iconLink": "icon_sciurus",
       "initialHp": 24,
       "effectName": "Snowfield's Gift",
-      "effectDesc": "<span class=\"font-bold\">[Snowfield's Gift]</span> The first <Kjerag> Operator purchased every round costs 1 Funds\n<span class=\"text-red-500\">Strategy may be flawed when some [Kjerag] Operators are missing</span></>"
+      "effectDesc": "<span class=\"font-bold\">[Snowfield's Gift]</span> The first &ltKjerag&gt Operator purchased every round costs 1 Funds\n<span class=\"text-red-500\">Strategy may be flawed when some &ltKjerag&gt Operators are missing</span></>"
     },
     {
       "name": "Panganini",
       "iconLink": "icon_paganini",
       "initialHp": 24,
       "effectName": "Customized Firearm",
-      "effectDesc": "<span class=\"font-bold\">[Customized Firearm]</span> After spending a total of 55 Funds, obtain 1 Tier 4 or above Elite Laterano Operator\n<span class=\"text-red-500\">Strategy may be flawed when some [Laterano] Operators are missing</span></>"
+      "effectDesc": "<span class=\"font-bold\">[Customized Firearm]</span> After spending a total of 55 Funds, obtain 1 Tier 4 or above Elite Laterano Operator\n<span class=\"text-red-500\">Strategy may be flawed when some &ltLaterano&gt Operators are missing</span></>"
     },
     {
       "name": "Clementia",
       "iconLink": "icon_clementia",
       "initialHp": 26,
       "effectName": "Noble Sacrifice",
-      "effectDesc": "<span class=\"font-bold\">[Noble Sacrifice]</span> When an <Ægir> Operator is defeated, grants Ægir Alliance stacks equivalent to that Operator's Tier\n<span class=\"text-red-500\">Strategy may be flawed when some [Ægir] Operators are missing</span></>"
+      "effectDesc": "<span class=\"font-bold\">[Noble Sacrifice]</span> When an &ltÆgir&gt Operator is defeated, grants Ægir Alliance stacks equivalent to that Operator's Tier\n<span class=\"text-red-500\">Strategy may be flawed when some &ltÆgir&gt Operators are missing</span></>"
     },
     {
       "name": "Emperor",
