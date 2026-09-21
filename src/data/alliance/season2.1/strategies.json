@@ -152,7 +152,7 @@
       "iconLink": "icon_malkie",
       "initialHp": 30,
       "effectName": "Commercial Packaging",
-      "effectDesc": "<span class=\"font-bold\">[Commercial Packaging]</span> Start with 1 Commercial Packaging Plan: For every 7 Operators sold, obtain 1 copy of the equipped Operator"
+      "effectDesc": "<span class=\"font-bold\">[Commercial Packaging]</span> Start with 1 Commercial Packaging Plan\n<span class='text-gray-500'>&ltCommercial Packaging Plan&gt For every 8 Operators sold, obtain 1 copy non-Elite Operator from the same Alliance as the equipped Operator</span>"
     },
     {
       "name": "Qalaiša",
@@ -173,7 +173,7 @@
       "iconLink": "icon_damaztic",
       "initialHp": 29,
       "effectName": "Damazti Isomorphism",
-      "effectDesc": "<span class=\"font-bold\">[Damazti Isomorphism]</span> In Round 5, obtain Damazti Isomorph: When equipped together with certain other equipment, the equipped Operator is treated as a member of a specific Alliance"
+      "effectDesc": "<span class=\"font-bold\">[Damazti Isomorphism]</span> Obtain 1 special Damazti Isomorph every 5 rounds\n<span class='text-gray-500'>&ltDamazti Isomorph&gt When equipped together with certain other equipment, the equipped Operator is treated as a member of a specific Alliance</span>"
     },
     {
       "name": "Pith",
@@ -204,6 +204,13 @@
       "effectDesc": "<span class=\"font-bold\">['Mystery Customer']</span> From Round 5 onwards, some enemies you and your teammates encounter may be replaced with &ltDuck Lord&gt, &ltGopnik&gt, &ltCrying Thief&gt, or &ltFatty&gt. Defeating them (even during Unite Phases) will grant 1 Funds"
     },
     {
+      "name": "Suzuran",
+      "iconLink": "icon_lisa",
+      "initialHp": 20,
+      "effectName": "'Omori's Blessing'",
+      "effectDesc": "<span class=\"font-bold\">[Omori's Blessing]</span> When the round begins, trigger an Operator's 'When obtained' Attribute once (prioritizes the bottom-right-most Operator on map)"
+    },
+    {
       "name": "Shamare",
       "iconLink": "icon_vodfox",
       "initialHp": 22,
@@ -218,11 +225,32 @@
       "effectDesc": "<span class=\"font-bold\">[Governing Order]</span> When the battle begins, for every Elite Operator on the field, Elite Operators gain +10% ATK and HP"
     },
     {
+      "name": "Jessica",
+      "iconLink": "icon_jesica",
+      "initialHp": 22,
+      "effectName": "'Rally Directive'",
+      "effectDesc": "<span class=\"font-bold\">[Rally Directive]</span> Upon entering Rest Phase on Rounds 4, 7, 10 and 13, obtain 1 Dispatch Module"
+    },
+    {
+      "name": "Muelsyse",
+      "iconLink": "icon_mlyss",
+      "initialHp": 28,
+      "effectName": "'Purified Condensation'",
+      "effectDesc": "<span class=\"font-bold\">[Purified Condensation]</span> Obtain 1 upgraded Doctor Hologram on Round 1"
+    },
+    {
       "name": "Matsukiri",
       "iconLink": "icon_makiri",
       "initialHp": 24,
       "effectName": "Streetwise Ties",
-      "effectDesc": "<span class=\"font-bold\">[Streetwise Ties]</span> Obtain a random Operator from the Dispatch Center on even-numbered-rounds"
+      "effectDesc": "<span class=\"font-bold\">[Streetwise Ties]</span> Obtain a random Operator from the Dispatch Center on even-numbered rounds"
+    },
+    {
+      "name": "Fang",
+      "iconLink": "icon_fang",
+      "initialHp": 24,
+      "effectName": "'Joint Advance'",
+      "effectDesc": "<span class=\"font-bold\">[Joint Advance]</span> Obtain 1 Transmitter on rounds 8, 10, 12 and 14"
     },
     {
       "name": "Młynar",
@@ -235,7 +263,7 @@
       "name": "Chiave",
       "iconLink": "icon_chiave",
       "initialHp": 23,
-      "effectName": "'Mystery Customer'",
+      "effectName": "'Gang Activity'",
       "effectDesc": "<span class=\"font-bold\">[Gang Activity]</span> Every 6 active refreshes will grant you 1 &ltSiracusa&gt Operator from a Tier not exceeding the Dispatch Center level (Max 2 Operators per round)\n<span class=\"text-red-500\">Strategy may be flawed when some [Siracusa] Operators are missing</span>"
     },
     {
@@ -250,35 +278,7 @@
       "iconLink": "icon_amedic",
       "initialHp": 28,
       "effectName": "Field Medic",
-      "effectDesc": "<span class=\"font-bold\">[Field Medic]</span> One Reserve Operator - Medic appears each player's battlefield; if there are at least 2 Elite Operators when the battle begins, Reserve Operator turns into &ltTouch&gt"
-    },
-    {
-      "name": "Suzuran",
-      "iconLink": "icon_lisa",
-      "initialHp": 20,
-      "effectName": "'Protective Power'",
-      "effectDesc": "<span class=\"font-bold\">[Protective Power]</span> At the start of each round, trigger the &ltWhen obtained&gt effect of one Operator on field (Prioritizes Operators deployed on upper right tiles)"
-    },
-    {
-      "name": "Jessica",
-      "iconLink": "icon_jesica",
-      "initialHp": 22,
-      "effectName": "'Rendezvous Orders'",
-      "effectDesc": "<span class=\"font-bold\">[Rendezvous Orders]</span> Upon entering Rest Phase on Rounds 4, 7, 10 and 13, obtain 1 Dispatch Module"
-    },
-    {
-      "name": "Muelsyse",
-      "iconLink": "icon_mlyss",
-      "initialHp": 28,
-      "effectName": "'Pure Drop'",
-      "effectDesc": "<span class=\"font-bold\">[Pure Drop]</span> At the start of round 1, obtain 1 upgraded Doctor Hologram"
-    },
-    {
-      "name": "Fang",
-      "iconLink": "icon_fang",
-      "initialHp": 24,
-      "effectName": "'Teamwork'",
-      "effectDesc": "<span class=\"font-bold\">[Teamwork]</span> Upon entering Rest Phase on Rounds 8, 10, 12 and 14, obtain 1 Transmitter"
+      "effectDesc": "<span class=\"font-bold\">[Field Medic]</span> 1 Reserve Operator - Medic appears each player's battlefield; if there are at least 2 Elite Operators when the battle begins, Reserve Operator turns into &ltTouch&gt"
     }
   ]
 }
